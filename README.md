@@ -1,2 +1,2 @@
 # C-programming-journey-
-Learning C programming language in my CS program and sharing the projects 
+Learning C programming language in my CS program and sharing the projects and the codes 
